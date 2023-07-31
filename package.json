@@ -1,0 +1,20 @@
+{
+  "name": "shadowly",
+  "version": "1.0.0",
+  "description": "A multi purpos discord bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "discord",
+    "bot"
+  ],
+  "author": "Ryan",
+  "license": "ISC",
+  "dependencies": {
+    "@rick_lugtigheid/js_utils": "^1.0.2",
+    "discord.js": "^11.3.2",
+    "enmap": "^5.2.4"
+  }
+}
