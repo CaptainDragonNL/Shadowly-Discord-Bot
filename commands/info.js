@@ -10,7 +10,7 @@ module.exports = {
             .setColor(0x0a1faf)
             .setTitle("Info")
             .addField(">", "Made by: ", true)
-            .addField("CaptainDragonNL", "https://github.com/CaptainDragonNL/ShadowlyDiscordBot", false)
+            .addField("CaptainDragonNL", "https://github.com/CaptainDragonNL/Shadowly-Discord-Bot", false)
             .addBlankField()
             .addField(">", "Bot info:", true)
             .addField("Version", version, true)
