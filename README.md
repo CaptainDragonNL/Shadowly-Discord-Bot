@@ -7,3 +7,4 @@ my old discord bot script,
 - discord bot
 - node JS.
 - simple script.
+- simply create a new command in the commands folder and create a new file for example: command.js and make a working thing in it for the discord bot.
